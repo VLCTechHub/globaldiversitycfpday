@@ -1,10 +1,15 @@
 - name: Emma Lopez
-  avatar:
-  bio: ""
+  avatar: /assets/images/Emma.jpeg
+  bio: Desarrolla producto en Agroptima. Hace dos años fundó la asociación VLCTechHub y organiza la conferencia VLCTechFest para ayudar a difundir los conocimientos tecnológicos y potenciar el talento local.
   twitter: hell03610
 
-- name: Meritxel Calvo
-  avatar:
+- name: Meritxell Calvo
+  avatar: /assets/images/Meritxell.jpg
   bio:
-  twitter:
+  twitter: nyan_dev
+
+- name: Cesar GM
+  avatar: /assets/images/Cesar.jpg
+  bio:
+  twitter: interruptme
 

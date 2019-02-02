@@ -149,12 +149,16 @@ section {
   padding: 25px;
   background-color: rgba(255,255,255,0.5);
   img {
-    width: 120px;
+    max-width: 120px;
   }
   .heart {
     color: #f00;
     font-size: 40px;
     margin: 0 20px;
+  }
+  .event img {
+    max-height: 80px;
+    border-radius: 50%;
   }
 }
 
