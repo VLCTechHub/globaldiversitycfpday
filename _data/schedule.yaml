@@ -1,0 +1,43 @@
+- name: Llegada
+  day:  1
+  time: "9:30"
+
+- name: Bienvenida y presentación
+  day:  1
+  time: "9:45"
+
+- name: Charla taller sobre generación de ideas
+  day:  1
+  time: "10:00"
+
+- name: Charla taller sobre escritura de abstracts
+  day:  1
+  time: "10:30"
+
+- name: Descanso
+  day:  1
+  time: "11:00"
+
+- name: Charla taller sobre escritura de bios
+  day:  1
+  time: "11:20"
+
+- name: Charla sobre como preparar la presenatación y diseño de presentaciones
+  day:  1
+  time: "11:50"
+
+- name: Descanso
+  day:  1
+  time: "12:20"
+
+- name: Charla sobre el día de la charla y tiempo para retocar bios y abstracts
+  day:  1
+  time: "12:40"
+
+- name: Presentación de las propuestas
+  day:  1
+  time: "13:10"
+
+- name: Cierre
+  day:  1
+  time: "13:25"

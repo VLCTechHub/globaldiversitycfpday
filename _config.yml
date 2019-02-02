@@ -1,0 +1,14 @@
+original_repo: https://github.com/vlctechhub/globaldiversitycfpday
+
+volunteers_form: ""
+mentors_form: ""
+attendees_form: ""
+
+keywords: ""
+title: "Global Diversity CFP Day - 2 de marzo - VLCTechHub"
+description: ""
+ogimage: ""
+
+sass:
+    sass_dir: assets/_sass
+    style: compressed
