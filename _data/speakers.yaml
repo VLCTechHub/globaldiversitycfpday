@@ -1,15 +1,15 @@
 - name: Emma Lopez
   avatar: /assets/images/Emma.jpeg
-  bio: Desarrolla producto en Agroptima. Hace dos años fundó la asociación VLCTechHub y organiza la conferencia VLCTechFest para ayudar a difundir los conocimientos tecnológicos y potenciar el talento local.
+  bio: Desarrolla producto en remoto y organiza la conferencia VLCTechFest. Fundadora de la asociación VLCTechHub, centrada en difundir los conocimientos tecnológicos y potenciar el talento local.
   twitter: hell03610
 
 - name: Meritxell Calvo
   avatar: /assets/images/Meritxell.jpg
-  bio:
+  bio: Software crafter. Hizo su primera charla en WomenTechMakers en 2017 y desde entonces no ha parado de compartir. La puedes ver en conferencias de software como Codemotion o Software craftmanship.
   twitter: nyan_dev
 
 - name: Cesar GM
   avatar: /assets/images/Cesar.jpg
-  bio:
+  bio: Toca ordenadores y monta eventos como IgniteVLC o TEDxCiutatVella. Selecciona las mejores propuestas, ayuda, prepara y acompaña a los oradores para que el día de la charla todo vaya sobre ruedas.
   twitter: interruptme
 

@@ -290,11 +290,20 @@ footer {
 
 }
 
+#speakers{
+  .ask-for-mentors {
+    border:3px solid #fb3;
+    padding: 10px;
+    margin-bottom: 40px;
+  }
+}
+
 .speakers {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-column-gap: 80px;
   margin-bottom: 60px;
+
 }
 .speaker {
   text-align: center;
